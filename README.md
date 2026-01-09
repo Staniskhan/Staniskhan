@@ -11,28 +11,17 @@
 * **Belarusian State University (BSU)**
 * *Faculty of Applied Mathematics and Computer Science (FAMCS)*
 * **Bachelor’s Degree in CS** | Expected Graduation: 2028
-* Focus: Algorithms, Data Structures, and High-level Mathematics.
+* Focus: Algorithms, Data Structures and High-level Mathematics.
 
 ### 🛠 Tech Stack
-- **Languages:** - `C++` (Proficient)
+- **Languages:**
+  - `C++` (Proficient)
   - `Java` (Intermediate / Active Learning)
   - `Assembler` (Basic)
-- **Frameworks & Libraries:** - **Backend:** Spring Boot (REST API, CRUD)
+- **Frameworks & Libraries:**
+  - **Backend:** Spring Boot (REST API, CRUD)
   - **GUI:** Qt, JavaFX
 - **Tools:** Git, Visual Studio, IntelliJ IDEA, Postman
-
-### 🚀 Projects & Focus
-- 🏗️ Currently building a **Library Management System** and exploring **Spring Boot** ecosystem.
-- 📱 Future plans: **Android Development** (Java/Android Studio).
-- 🧠 Active in solving **Algorithmic Challenges** (check my pinned repositories!).
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" alt="Stanislav's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
 
 ---
 
