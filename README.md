@@ -21,7 +21,7 @@
 - **Frameworks & Libraries:**
   - **Backend:** Spring Boot (REST API, CRUD)
   - **GUI:** Qt, JavaFX
-- **Tools:** Git, Visual Studio, VSCode, IntelliJ IDEA, Postman
+- **Tools:** Git, Postman
 
 ---
 
