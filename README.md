@@ -16,13 +16,23 @@
 ### 🛠 Tech Stack
 - **Languages:**
   - `C++` (Proficient)
-  - `Java` (Intermediate / Active Learning)
+  - `Python` (Intermediate)
+  - `Java` (Intermediate)
   - `Assembler` (Basic)
 - **Frameworks & Libraries:**
   - **Backend:** Spring Boot (REST API, CRUD)
   - **GUI:** Qt, JavaFX
-- **Tools:** Git, Postman
-
+- **Backend and Databases:**
+  - Spring Boot (REST API, CRUD)
+  - MS SQL Server
+  - basics of relational DB design
+- **Tools and environment:**
+  - Git
+  - SSMS (SQL Server Management Studio)
+  - Postman
+  - Jupyter Notebook
+  - venv
+  - Qt
 ---
 
 ### 📫 Connect with me:
