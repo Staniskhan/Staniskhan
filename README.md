@@ -19,9 +19,6 @@
   - `Python` (Intermediate)
   - `Java` (Intermediate)
   - `Assembler` (Basic)
-- **Frameworks & Libraries:**
-  - **Backend:** Spring Boot (REST API, CRUD)
-  - **GUI:** Qt, JavaFX
 - **Backend and Databases:**
   - Spring Boot (REST API, CRUD)
   - MS SQL Server
